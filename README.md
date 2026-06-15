@@ -8,7 +8,7 @@ The application presents multiple-choice questions to the user, accepts answers 
 
 This project was built to strengthen my understanding of **Java fundamentals**, **OOP concepts**, **user input handling**, **arrays**, **loops**, and **application flow control**.
 
----
+--- 
 
 ## ✨ Features
 
